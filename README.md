@@ -16,7 +16,7 @@
 <img src="https://pcbwayfile.s3.us-west-2.amazonaws.com/web/22/05/16/2115030697043t.gif" align="left" style="width:220px">
 <img src="https://miro.medium.com/max/1000/1*dcL4QoY64t9rOsLQpNYwJg.gif" align="right" style="width:220px">
 <img src="https://raw.githubusercontent.com/aayushgoyal/aayushgoyal/master/github.gif" width="55">
-<h4> 🅻🅾🆅🅴 Traveling, playing PC, gym.<br> 🅷🅾🅱🅱🅸🅴🆂 Tennis, chess, cooking, playing guitar. <br>🆂🅿🅴🅰🅺 English, Persian, Uzbek and Russian. <br><br>
+<h4> 🅻🅾🆅🅴 Traveling, playing PC, gym.<br> 🅷🅾🅱🅱🅸🅴🆂 Tennis, chess, cooking, playing guitar. <br>🆂🅿🅴🅰🅺 English, Persian and Uzbek. <br><br>
  🅵🅸🅽🅳 🅼🅴 🅾🅽 </h4>  
  <a href="https://www.linkedin.com/in/shekhroz-achilov/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>  
